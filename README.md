@@ -23,7 +23,7 @@ A simple and beautiful React app to search for movies and TV shows using public 
 - React
 - Axios
 - CSS
-- Movie/TV API (e.g., [OMDB](http://www.omdbapi.com/)
+- Movie/TV API (e.g., [OMDB](http://www.omdbapi.com/))
 
 ---
 
