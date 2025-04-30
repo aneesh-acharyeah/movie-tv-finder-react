@@ -32,5 +32,5 @@ A simple and beautiful React app to search for movies and TV shows using public 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/movie-tv-finder.git
+git clone https://github.com/aneesh-acharyeah/movie-tv-finder.git
 cd movie-tv-finder
