@@ -1,4 +1,4 @@
-# 🎬 Movie-TV Finder 
+# 🎬 Movie-TV Finder   
 
 A simple and beautiful React app to search for movies and TV shows using public APIs. Users can explore details like posters, ratings, release dates, and more.
 
